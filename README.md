@@ -1,4 +1,6 @@
-<h1> Ola, me chamo Davi Ugioni e atualmente estou na 2FASE do curso de informatica no COLEGIO SATC</h1>
+<h1> Ola, me chamo Davi Ugioni  </h1>
+
+<h2> atualmente estou na 2FASE do curso de informatica no COLEGIO SATC, sinta-se à vontade pra olhar meus projetos. </h2>
 
 
 <!--
