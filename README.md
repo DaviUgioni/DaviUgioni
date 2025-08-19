@@ -1,9 +1,5 @@
 <h1> Ola, me chamo Davi Ugioni  </h1>
-
-<h2> atualmente estou na 2FASE do curso de informatica no COLEGIO SATC, sinta-se à vontade pra olhar meus projetos. </h2>
-
-
-<h1 align="center">Atualmente, estou na 2ª fase do curso de Informática no **Colégio SATC**.  Sinta-se à vontade para explorar meus projetos! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTB2OTJ0N3c2b256OW9mdzNlMHhxdjM1ZzRnamNxMmU3cndzNGRicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tBW2o1LQD8bo7ApExG/giphy.gif" width="50"></h1>
+<h2 align="center">Atualmente, estou na 2ª fase do curso de Informática no **Colégio SATC**.  Sinta-se à vontade para explorar meus projetos! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTB2OTJ0N3c2b256OW9mdzNlMHhxdjM1ZzRnamNxMmU3cndzNGRicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tBW2o1LQD8bo7ApExG/giphy.gif" width="50"></h1>
 
   <a href="https://github.com/viniciusdarosa">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=viniciusdarosa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdarosa&layout=compact&langs_count=7&theme=github_dark"/>
