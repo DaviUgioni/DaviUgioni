@@ -1,4 +1,4 @@
-<h1> Ola, me chamo Davi Ugioni  </h1>
+<h1 align="center"> Ola, me chamo Davi Ugioni </h1>
 <h2 align="center">Atualmente, estou na 2ª fase do curso de Informática no **Colégio SATC**.  Sinta-se à vontade para explorar meus projetos! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTB2OTJ0N3c2b256OW9mdzNlMHhxdjM1ZzRnamNxMmU3cndzNGRicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tBW2o1LQD8bo7ApExG/giphy.gif" width="50"></h1>
 
   <a href="https://github.com/viniciusdarosa">
