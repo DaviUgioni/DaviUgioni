@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="https://github.com/viniciusdarosa">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=viniciusdarosa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=daviugioni&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub stats"/>
   </a>
   <a href="https://github.com/viniciusdarosa">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdarosa&layout=compact&langs_count=7&theme=github_dark" alt="Top linguagens"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviugioni&layout=compact&langs_count=7&theme=github_dark" alt="Top linguagens"/>
   </a>
 </p>
 
