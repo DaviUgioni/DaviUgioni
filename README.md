@@ -7,10 +7,10 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/viniciusdarosa">
+  <a href="https://github.com/DaviUgioni">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=daviugioni&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub stats"/>
   </a>
-  <a href="https://github.com/viniciusdarosa">
+  <a href="https://github.com/DaviUgioni">
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviugioni&layout=compact&langs_count=7&theme=github_dark" alt="Top linguagens"/>
   </a>
 </p>
