@@ -2,8 +2,7 @@
 
 <h2 align="center">
   Atualmente, estou na 2ª fase do curso de Informática no <strong>Colégio SATC</strong>.<br/>
-  Sinta-se à vontade para explorar meus projetos! 
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTB2OTJ0N3c2b256OW9mdzNlMHhxdjM1ZzRnamNxMmU3cndzNGRicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tBW2o1LQD8bo7ApExG/giphy.gif" width="50" alt="gif animado"/>
+  Sinta-se à vontade para explorar meus projetos!
 </h2>
 
 <p align="center">
