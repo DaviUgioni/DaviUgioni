@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo Davi Ugioni</h1>
 
 <h2 align="center">
-  Atualmente, estou na 2ª fase do curso de Informática no <strong>Colégio SATC</strong>.<br/>
+  Atualmente, estou na 3ª fase do curso de Informática no <strong>Colégio SATC</strong>.<br/>
   Sinta-se à vontade para explorar meus projetos!
 </h2>
 
