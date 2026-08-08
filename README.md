@@ -5,13 +5,11 @@
   Sinta-se à vontade para explorar meus projetos!
 </h2>
 
-<p align="center">
-  <a href="https://github.com/DaviUgioni">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=daviugioni&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  </a>
-  <a href="https://github.com/DaviUgioni">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviugioni&layout=compact&langs_count=7&theme=github_dark" alt="Top linguagens"/>
-  </a>
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
 </p>
 
 <h1 align="center">Tecnologias</h1>
