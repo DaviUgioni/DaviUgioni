@@ -1,6 +1,6 @@
 <h1 align="center">Olá, me chamo Davi Ugioni</h1>
 <h2 align="center">
-  Atualmente, estou na 4ª fase do curso de Informática no <strong>Colégio SATC</strong>.<br/>
+  Atualmente, estou na 3ª fase do curso de Informática no <strong>Colégio SATC</strong>.<br/>
   Sinta-se à vontade para explorar meus projetos!
 </h2>
 
@@ -20,6 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
 </p>
 
 <h1 align="center">Contatos</h1>
