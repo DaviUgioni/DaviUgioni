@@ -30,14 +30,13 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaviUgioni&repo=Sondfy-Mobile&theme=tokyonight&hide_border=true" alt="Soundfy Mobile" />
   </a>
   <a href="https://github.com/DaviUgioni/AgroPlus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaviUgioni&repo=AgroPlus&theme=tokyonight&hide_border=true" alt="AgroPlus" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaviUgioni&repo=AgroPlus&theme=tokyonight&hide_border=true&v=2" alt="AgroPlus" />
   </a>
 </p>
 
 <!--
 Para adicionar mais cards, copie o bloco <a>...</a> e troque o nome do repositório (nos dois lugares).
 -->
-
 
 
 ## GitHub Stats
