@@ -29,9 +29,10 @@
   <a href="https://github.com/DaviUgioni/Sondfy-Mobile">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaviUgioni&repo=Sondfy-Mobile&theme=tokyonight&hide_border=true" alt="Soundfy Mobile" />
   </a>
+  <a href="https://github.com/DaviUgioni/AgroPlus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaviUgioni&repo=AgroPlus&theme=tokyonight&hide_border=true" alt="AgroPlus" />
+  </a>
 </p>
-
-- **AgroPlus**: app de gestão para agricultura familiar (plantio, colheita, custos e máquinas), em repositório privado
 
 <!--
 Para adicionar mais cards, copie o bloco <a>...</a> e troque o nome do repositório (nos dois lugares).
