@@ -26,18 +26,17 @@
 ## Trabalhos em andamento
 
 <p align="center">
-  <!-- Confira se o nome do repositório está correto (Soundfy-Mobile) e ajuste nos dois lugares, se necessário -->
-  <a href="https://github.com/DaviUgioni/Soundfy-Mobile">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaviUgioni&repo=Soundfy-Mobile&theme=tokyonight&hide_border=true" alt="Soundfy Mobile" />
-  </a>
-  <a href="https://github.com/DaviUgioni/AgroPlus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaviUgioni&repo=AgroPlus&theme=tokyonight&hide_border=true" alt="AgroPlus" />
+  <a href="https://github.com/DaviUgioni/Sondfy-Mobile">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaviUgioni&repo=Sondfy-Mobile&theme=tokyonight&hide_border=true" alt="Soundfy Mobile" />
   </a>
 </p>
 
+- **AgroPlus**: app de gestão para agricultura familiar (plantio, colheita, custos e máquinas), em repositório privado
+
 <!--
-Para adicionar mais cards, copie um bloco <a>...</a> e troque o nome do repositório (nos dois lugares).
+Para adicionar mais cards, copie o bloco <a>...</a> e troque o nome do repositório (nos dois lugares).
 -->
+
 
 
 ## GitHub Stats
