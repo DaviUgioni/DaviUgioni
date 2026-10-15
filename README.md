@@ -16,9 +16,7 @@
 ##  Projetos em destaque
 
 - **AgroPlus**: app de gestão para agricultura familiar (plantio, colheita, custos e máquinas)
-- **App de doações**: React Native + Firebase, com painel administrativo e fluxo de aprovação
-- **Jogos em Unity**: terror 2D top-down, jogo de corrida 3D estilo F1 e o BlackWood Files
-- **Exoesqueleto de membros inferiores**: Arduino + PCA9685 com 8 servo motores
+
 
 ##  GitHub Stats
 
