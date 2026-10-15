@@ -11,42 +11,42 @@
 
 ---
 
-##  Atualmente
+## Atualmente
 
--  Trabalhando no **AgroPlus**
--  Estudando back-end, Firebase e SQL
--  Desenvolvendo jogos na Unity
+- Trabalhando no **AgroPlus** e no **Soundfy Mobile**
+- Estudando back-end, Firebase e SQL
+- Desenvolvendo jogos na Unity
 
-##  Tecnologias
+## Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,js,ts,react,firebase,mysql,unity,git,html,css" alt="Tecnologias" />
 </p>
 
-##  Projetos em destaque
+## Trabalhos em andamento
 
 <p align="center">
+  <!-- Confira se o nome do repositório está correto (Soundfy-Mobile) e ajuste nos dois lugares, se necessário -->
+  <a href="https://github.com/DaviUgioni/Soundfy-Mobile">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaviUgioni&repo=Soundfy-Mobile&theme=tokyonight&hide_border=true" alt="Soundfy Mobile" />
+  </a>
   <a href="https://github.com/DaviUgioni/AgroPlus">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaviUgioni&repo=AgroPlus&theme=tokyonight&hide_border=true" alt="AgroPlus" />
   </a>
 </p>
 
 <!--
-Para adicionar mais cards, copie o bloco acima e troque AgroPlus (nos dois lugares) pelo nome do repositório.
+Para adicionar mais cards, copie um bloco <a>...</a> e troque o nome do repositório (nos dois lugares).
 -->
 
-- **AgroPlus**: app de gestão para agricultura familiar (plantio, colheita, custos e máquinas)
-- **App de doações**: React Native + Firebase, com painel administrativo e fluxo de aprovação
-- **Jogos em Unity**: terror 2D top-down, jogo de corrida 3D estilo F1 e o BlackWood Files
-- **Exoesqueleto de membros inferiores**: Arduino + PCA9685 com 8 servo motores
 
-##  GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviUgioni&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
-##  Contato
+## Contato
 
 <p align="center">
   <a href="https://linkedin.com/in/davi-ugioni-112b52412"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
